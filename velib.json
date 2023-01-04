@@ -1,0 +1,151 @@
+{
+	"nhits": 1449,
+	"parameters": {
+		"dataset": "velib-emplacement-des-stations",
+		"rows": 10,
+		"start": 0,
+		"format": "json",
+		"timezone": "Europe/Paris"
+	},
+	"records": [{
+		"datasetid": "velib-emplacement-des-stations",
+		"recordid": "4b3a5f30dc4d990e9269ad5444c2841ea7ad504e",
+		"fields": {
+			"capacity": 48,
+			"coordonnees_geo": [48.835092787823875, 2.353468135133752],
+			"name": "Le Brun - Gobelins",
+			"stationcode": "13007"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [2.353468135133752, 48.835092787823875]
+		},
+		"record_timestamp": "2022-12-22T12:00:07.035+01:00"
+	}, {
+		"datasetid": "velib-emplacement-des-stations",
+		"recordid": "a9fd154c661d3f935b3cd0fa87252ec3915d1289",
+		"fields": {
+			"capacity": 20,
+			"coordonnees_geo": [48.856451985395786, 2.334851883351803],
+			"name": "Beaux-Arts - Bonaparte",
+			"stationcode": "6021"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [2.334851883351803, 48.856451985395786]
+		},
+		"record_timestamp": "2022-12-22T12:00:07.035+01:00"
+	}, {
+		"datasetid": "velib-emplacement-des-stations",
+		"recordid": "65a3cb525e744ebc7e4ebe293d5ac24cdd0c3214",
+		"fields": {
+			"capacity": 18,
+			"coordonnees_geo": [48.85314781654488, 2.3263905197381973],
+			"name": "Raspail - Varenne",
+			"stationcode": "7004"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [2.3263905197381973, 48.85314781654488]
+		},
+		"record_timestamp": "2022-12-22T12:00:07.035+01:00"
+	}, {
+		"datasetid": "velib-emplacement-des-stations",
+		"recordid": "46caa19430c37d498db9517175b4f6d562c01f03",
+		"fields": {
+			"capacity": 30,
+			"coordonnees_geo": [48.79628807093802, 2.417212128639221],
+			"name": "Jules Guesde - Pont du Port \u00e0 l'Anglais",
+			"stationcode": "44017"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [2.417212128639221, 48.79628807093802]
+		},
+		"record_timestamp": "2022-12-22T12:00:07.035+01:00"
+	}, {
+		"datasetid": "velib-emplacement-des-stations",
+		"recordid": "d8e24b2edcb82e8d12bb7b5147f15daf3d27198d",
+		"fields": {
+			"capacity": 39,
+			"coordonnees_geo": [48.88022154052015, 2.2854680567979813],
+			"name": "Belidor - Gouvion-Saint-Cyr",
+			"stationcode": "17043"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [2.2854680567979813, 48.88022154052015]
+		},
+		"record_timestamp": "2022-12-22T12:00:07.035+01:00"
+	}, {
+		"datasetid": "velib-emplacement-des-stations",
+		"recordid": "7004f584948b015b2772f7fd38ff009575cf4926",
+		"fields": {
+			"capacity": 58,
+			"coordonnees_geo": [48.8667175, 2.3692541],
+			"name": "Richard Lenoir - Republique",
+			"stationcode": "11113"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [2.3692541, 48.8667175]
+		},
+		"record_timestamp": "2022-12-22T12:00:07.035+01:00"
+	}, {
+		"datasetid": "velib-emplacement-des-stations",
+		"recordid": "ad479bf46b59cef217d37129d06a35b9efa09c33",
+		"fields": {
+			"capacity": 50,
+			"coordonnees_geo": [48.89738369720229, 2.3959985375404362],
+			"name": "Grands Moulins de Pantin",
+			"stationcode": "19044"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [2.3959985375404362, 48.89738369720229]
+		},
+		"record_timestamp": "2022-12-22T12:00:07.035+01:00"
+	}, {
+		"datasetid": "velib-emplacement-des-stations",
+		"recordid": "629d820e9ee1d1ce3baf95bab46fa57700f52707",
+		"fields": {
+			"capacity": 64,
+			"coordonnees_geo": [48.83769531916335, 2.275374233722687],
+			"name": "H\u00f4pital Europ\u00e9en Georges Pompidou",
+			"stationcode": "15104"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [2.275374233722687, 48.83769531916335]
+		},
+		"record_timestamp": "2022-12-22T12:00:07.035+01:00"
+	}, {
+		"datasetid": "velib-emplacement-des-stations",
+		"recordid": "4175706fa6fbc1fef4dfea15b0b84f045b74bce7",
+		"fields": {
+			"capacity": 33,
+			"coordonnees_geo": [48.88794016394694, 2.326124420314341],
+			"name": "Etienne Jodelle - Saint Ouen",
+			"stationcode": "18046"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [2.326124420314341, 48.88794016394694]
+		},
+		"record_timestamp": "2022-12-22T12:00:07.035+01:00"
+	}, {
+		"datasetid": "velib-emplacement-des-stations",
+		"recordid": "a43175e4c3265469484baa5fe597fd91bafcf6ee",
+		"fields": {
+			"capacity": 26,
+			"coordonnees_geo": [48.83495885166784, 2.2416803240776066],
+			"name": "H\u00f4tel de Ville de Boulogne Billancourt",
+			"stationcode": "21005"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [2.2416803240776066, 48.83495885166784]
+		},
+		"record_timestamp": "2022-12-22T12:00:07.035+01:00"
+	}]
+}
